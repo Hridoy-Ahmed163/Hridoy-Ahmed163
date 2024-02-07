@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hridoy-Ahmed
-- 👀 I’m interested in ... web Development
-- 🌱 I’m currently learning ...javascript
-- 💞️ I’m looking to collaborate on ...any basic project with Html Css and javascript
+- 👀 I’m interested in ... Web Development
+- 🌱 I’m currently learning ...React nextjs
+- 💞️ I’m looking to collaborate on ...any basic React project
 - 📫 How to reach me ...my email ... hridoyahammedagon@gmail.com
 
 <!---
